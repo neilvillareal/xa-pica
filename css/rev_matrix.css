@@ -1,0 +1,104 @@
+table.matrix
+{
+	position:relative;
+	width: 100%;
+	border: 2px 2px 2px 2px;
+	border-style:dotted;
+}
+
+th.cat_name
+{
+	position:relative;
+	text-align: center;
+	width: 30%;
+	border: 2px 2px 2px 2px;
+	border-style:dotted;
+	padding: 10px 10px 10px 10px;
+}
+
+th.cat_code
+{
+	position:relative;
+	text-align: center;
+	width: 20%;
+	border: 2px 2px 2px 2px;
+	border-style:dotted;
+	padding: 5px 5px 5px 5px;
+}
+
+td.cat_code
+{
+	text-align: center;	
+	border: 2px 2px 2px 2px;
+	border-style:dotted;
+	padding: 5px 5px 5px 5px;	
+}
+
+td.cat_name
+{
+	text-align: center;	
+	border: 2px 2px 2px 2px;
+	border-style:dotted;
+	padding: 5px 5px 5px 5px;	
+}
+
+th.cat_desc
+{
+	position:relative;
+	text-align: center;
+	width: 30%;
+	border: 2px 2px 2px 2px;
+	border-style:dotted;
+	padding: 10px 10px 10px 10px;
+}
+
+td.cat_desc
+{	
+	border: 2px 2px 2px 2px;
+	border-style:dotted;
+	padding: 5px 5px 5px 5px;
+}
+
+th.button
+{
+	position:relative;
+	width: 10%;
+	border: 2px 2px 2px 2px;
+	border-style:dotted;
+	padding: 10px 10px 10px 10px;
+}
+
+td.button
+{
+	text-align: center;
+	border: 2px 2px 2px 2px;
+	border-style:dotted;
+	padding: 5px 5px 5px 5px;	
+}
+
+.drop-area{
+  width:100px;
+  height:25px;
+  border: 1px solid #999;
+  text-align: center;
+  padding:10px;
+  cursor:pointer;
+}
+
+#thumbnail img{
+  position: relative;  
+  width:100%;
+  height:50%;
+  margin:5px;
+}
+
+canvas {
+  border:1px solid red;
+}
+
+img.mthumb
+{  
+  width:100px;
+  height:100px;
+  margin:5px;
+}

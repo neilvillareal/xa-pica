@@ -1,0 +1,134 @@
+table.matrix
+{
+	position:relative;
+	width: 100%;
+	border: 2px 2px 2px 2px;
+	border-style:solid;
+}
+
+th.tblNum
+{
+	position:relative;
+	text-align: center;
+	width: 5%;
+	border: 2px 2px 2px 2px;
+	border-style:solid;
+	padding: 10px 10px 10px 10px;
+}
+
+td.tblNum
+{
+	text-align: center;
+	border: 2px 2px 2px 2px;
+	border-style:solid;
+	padding: 2px 2px 2px 2px;	
+}
+
+th.pron
+{
+	position:relative;
+	text-align: center;
+	width: 19%;
+	border: 2px 2px 2px 2px;
+	border-style:solid;
+	padding: 10px 10px 10px 10px;
+}
+
+td.pron
+{
+	text-align: center;
+	border: 2px 2px 2px 2px;
+	border-style:solid;
+	padding: 2px 2px 2px 2px;	
+}
+
+
+th.qt
+{
+	position:relative;
+	text-align: center;
+	width: 5%;
+	border: 2px 2px 2px 2px;
+	border-style:solid;
+	padding: 10px 10px 10px 10px;
+}
+
+td.qt
+{
+	text-align: center;
+	border: 2px 2px 2px 2px;
+	border-style:solid;
+	padding: 2px 2px 2px 2px;	
+}
+
+th.note
+{
+	position:relative;
+	text-align: center;
+	width: 15%;
+	border: 2px 2px 2px 2px;
+	border-style:solid;
+	padding: 5px 5px 5px 5px;	
+}
+
+td.note
+{
+	text-align: center;
+	border: 2px 2px 2px 2px;
+	border-style:solid;
+	padding: 2px 2px 2px 2px;	
+}
+
+th.st
+{
+	position:relative;
+	text-align: center;
+	width: 10%;
+	border: 2px 2px 2px 2px;
+	border-style:solid;
+	padding: 5px 5px 5px 5px;	
+}
+
+td.st
+{
+	text-align: center;
+	border: 2px 2px 2px 2px;
+	border-style:solid;
+	padding: 2px 2px 2px 2px;	
+}
+
+th.ts
+{
+	position:relative;
+	text-align: center;
+	width: 16%;
+	border: 2px 2px 2px 2px;
+	border-style:solid;
+	padding: 5px 5px 5px 5px;	
+}
+
+td.ts
+{
+	text-align: center;
+	border: 2px 2px 2px 2px;
+	border-style:solid;
+	padding: 2px 2px 2px 2px;	
+}
+
+th.button
+{
+	position:relative;
+	text-align: center;
+	width: 10%;
+	border: 2px 2px 2px 2px;
+	border-style:solid;
+	padding: 5px 5px 5px 5px;	
+}
+
+td.button
+{
+	text-align: center;
+	border: 2px 2px 2px 2px;
+	border-style:solid;
+	padding: 2px 2px 2px 2px;	
+}

@@ -1,0 +1,95 @@
+table.matrix
+{
+	position:relative;
+	width: 100%;
+	border: 2px 2px 2px 2px;
+	border-style:dotted;
+}
+
+th.sender
+{
+	position:relative;
+	text-align: center;
+	width: 35%;
+	border: 2px 2px 2px 2px;
+	border-style:dotted;
+	padding: 10px 10px 10px 10px;
+}
+
+th.email
+{
+	position:relative;
+	text-align: center;
+	width: 20%;
+	border: 2px 2px 2px 2px;
+	border-style:dotted;
+	padding: 5px 5px 5px 5px;
+}
+
+th.subject
+{
+	position:relative;
+	text-align: center;
+	width: 15%;
+	border: 2px 2px 2px 2px;
+	border-style:dotted;
+	padding: 5px 5px 5px 5px;
+}
+
+th.timerec
+{
+	position:relative;
+	text-align: center;
+	width: 20%;
+	border: 2px 2px 2px 2px;
+	border-style:dotted;
+	padding: 10px 10px 10px 10px;
+}
+
+th.button
+{
+	position:relative;
+	width: 10%;
+	border: 2px 2px 2px 2px;
+	border-style:dotted;
+	padding: 10px 10px 10px 10px;
+}
+
+td.sender
+{
+	text-align: center;	
+	border: 2px 2px 2px 2px;
+	border-style:dotted;
+	padding: 5px 5px 5px 5px;	
+}
+
+td.email
+{
+	text-align: center;	
+	border: 2px 2px 2px 2px;
+	border-style:dotted;
+	padding: 5px 5px 5px 5px;	
+}
+
+td.subject
+{
+	text-align: center;	
+	border: 2px 2px 2px 2px;
+	border-style:dotted;
+	padding: 5px 5px 5px 5px;	
+}
+
+td.timerec
+{	
+	border: 2px 2px 2px 2px;
+	border-style:dotted;
+	padding: 5px 5px 5px 5px;
+}
+
+td.button
+{
+	text-align: center;
+	border: 2px 2px 2px 2px;
+	border-style:dotted;
+	padding: 5px 5px 5px 5px;	
+}
